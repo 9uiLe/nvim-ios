@@ -1,0 +1,23 @@
+# 環境固有の設定
+.env
+
+# Lazy.nvim
+lazy-lock.json
+
+# プラグインデータ
+plugin/
+
+# ログファイル
+.nvimlog
+*.log
+
+# Undoファイル
+undo/
+
+# macOS
+.DS_Store
+
+# その他の一時ファイル
+*.swp
+*.swo
+*~
