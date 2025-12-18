@@ -8,7 +8,7 @@ NeoVimでiOS開発を行うための設定です。Xcodeを使わずにターミ
 
 ```bash
 # 1. このリポジトリをクローン
-git clone <your-repo-url> ~/.config/nvim
+git clone https://github.com/9uiLe/nvim-ios.git ~/.config/nvim
 
 # 2. セットアップスクリプトを実行
 cd ~/.config/nvim
@@ -24,7 +24,7 @@ nvim
 
 ```bash
 # 1. このリポジトリをクローン
-git clone <your-repo-url> ~/.config/nvim
+git clone https://github.com/9uiLe/nvim-ios.git ~/.config/nvim
 
 # 2. セットアップスクリプトを実行（環境を自動検出）
 cd ~/.config/nvim
